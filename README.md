@@ -1,6 +1,8 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- Name: David Elisha Lahu
+- Maatric Number: U23CS1025
+- Department: Computer Science
+- Github Account: DavidLahu
 
 ## Getting Started
 
